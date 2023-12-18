@@ -15,9 +15,9 @@ githubとか見たことがある人は README.mdとかのmdファイルがマ�
 教育側の目的としては、vscodeに慣れることですかね。
 ということで、以下のQiitaの教材2つを見てみてください。
 
-https://qiita.com/boxfish_jp/items/0316681ac5cfcf8daa55
+[理系大学生のためのmarkdown活用ガイド ~前編~](https://qiita.com/boxfish_jp/items/0316681ac5cfcf8daa55)
 
-https://qiita.com/boxfish_jp/items/4ec8cf578a9137254257
+[理系大学生のためのmarkdown活用ガイド ~後編~](https://qiita.com/boxfish_jp/items/4ec8cf578a9137254257)
 
 > 教育する人へ、htmlファイルを覚えた後に、markdownファイルをhtmlファイルに変換してあげれば、伏線回収みたいなかんじになると思います。
 
@@ -37,7 +37,7 @@ https://qiita.com/boxfish_jp/items/4ec8cf578a9137254257
 目安時間は、3時間50分らしい。
 5日の無料期間中に根性あれば、終わるかな。
 
-https://prog-8.com/courses/html
+[progateのhtml/css講座](https://prog-8.com/courses/html)
 
 #### 忙しいかた
 他の教材を探しましょう。
