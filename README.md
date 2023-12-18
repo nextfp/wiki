@@ -4,5 +4,5 @@
 
 ## Web
 webアプリの教材はこちら
-https://nextfp.github.io/wiki/web/README
+https://nextfp.github.io/wiki/web/
 
