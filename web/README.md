@@ -7,4 +7,4 @@
 [html編はこちら](./html)
 
 ### 8日目~(JavaScript編)
-[JavaScript編はこちら](./javaScript/)
+[JavaScript編はこちら](./javascript)
