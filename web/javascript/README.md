@@ -27,3 +27,8 @@ JavaScriptというのは、ブラウザ上で動くという言語です。
 
 ガッチリやる方がいいのかな。もし上のやつをやってもよくわからなかったら下をやってみてください。
 [文系大学生のためのJavaScript入門](https://zenn.dev/ojk/books/intro-to-javascript)
+
+#### 4日目 JavaScript練習
+JavaScript中間試験みたいなものです。  
+これができたら、JavaScriptの基本は大丈夫です。  
+[pokeAPIで練習するJavaScript](./pokeAPI)
