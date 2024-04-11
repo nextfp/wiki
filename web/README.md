@@ -8,3 +8,7 @@
 
 ### 8日目~(JavaScript編)
 [JavaScript編はこちら](./javascript)
+
+### 9日目~(雑談)
+javascriptやnode.jsについて軽く話している雑談  
+[雑談](./chill)
