@@ -37,3 +37,19 @@ JavaScript中間試験みたいなものです。
 APIについての説明を端折りすぎたので、補足資料書いたら結構長くなってしまいました。  
 手を動かして遊ぶ形式ですが、自分で考えてコードを書く部分はありません。伏線回収回みたいな感じです。  
 [APIをマイコンで作ろう](./pokeAPI_supplyment)
+
+#### 6~7日目　非同期処理
+JavaScriptのボスの非同期処理を勉強します。  
+Cのポインターよりは難しくないけど、みんなが詰まるポイントです。  
+
+1. javaScriptの処理の順番  
+文中に出てくるコードは実際に手を動かしましょう。  
+[javaScriptの処理の順番](https://samehack.com/javascript-asynchronous/)  
+
+2. async awaitの使い方  
+以下のページでasync/await文の使い方を身につけましょう。  
+javaScriptの非同期処理で使う関数といえば、コールバック関数、promise、async/awaitです。  
+この中で、一番分かりやすくて一番使うのが、async awaitです。async awaitなしにはコードは書けません。  
+しかし、promiseに関しては結構難しいし、あまり使わないのでちゃんと理解する必要はありません。  
+promiseとコールバック関数に関しては、サラサラと読み流して構いませんが、async await部分は実際にコードを動かしてね。   
+[async awaitの使い方](https://www.otwo.jp/blog/asynchronous-processing/)
