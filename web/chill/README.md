@@ -33,3 +33,7 @@ Webというのは2つの世界?分野?に分けられます。
 こんな感じの4つです。  
 
 本日の雑談では、node.js周りの話をしていこうと思います。  
+
+## node jsとJavaScriptの歴史
+ここからはこの記事で説明をしていきます。   
+[node jsとJavaScriptの歴史](https://qiita.com/neras_1215/items/485f6c752a3b7abb034f)
