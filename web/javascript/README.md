@@ -25,10 +25,15 @@ JavaScriptというのは、ブラウザ上で動くという言語です。
 とりあえず、これをやってみてください。  
 [一日で多分駆け抜けられるJavaScript](https://github.com/ZDK-UTsukuba/ipc-web-training-2024/tree/master/phase2/handouts)  
 
-ガッチリやる方がいいのかな。もし上のやつをやってもよくわからなかったら下をやってみてください。
+ガッチリやる方がいいのかな。もし上のやつをやってもよくわからなかったら下をやってみてください。  
 [文系大学生のためのJavaScript入門](https://zenn.dev/ojk/books/intro-to-javascript)
 
 #### 4日目 JavaScript練習
 JavaScript中間試験みたいなものです。  
 これができたら、JavaScriptの基本は大丈夫です。  
-[pokeAPIで練習するJavaScript](./pokeAPI)
+[pokeAPIで練習するJavaScript](./pokeAPI)  
+
+#### 5日目 WEBの仕組み(http)補強
+APIについての説明を端折りすぎたので、補足資料書いたら結構長くなってしまいました。  
+手を動かして遊ぶ形式ですが、自分で考えてコードを書く部分はありません。伏線回収回みたいな感じです。  
+[APIをマイコンで作ろう](./pokeAPI_supplyment)
