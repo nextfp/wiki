@@ -6,7 +6,7 @@
 
 [html編はこちら](./html)
 
-### 8~15日目~(JavaScript編)
+### 8~15日目(JavaScript編)
 [JavaScript編はこちら](./javascript)
 
 ### 16日目(雑談)
