@@ -6,9 +6,13 @@
 
 [html編はこちら](./html)
 
-### 8日目~(JavaScript編)
+### 8~15日目~(JavaScript編)
 [JavaScript編はこちら](./javascript)
 
-### 9日目~(雑談)
-javascriptやnode.jsについて軽く話している雑談  
+### 16日目(雑談)
+現在やっていることについて少し振り返り  
 [雑談](./chill)
+
+### 17日目(Node.jsの歩き方)
+Reactを扱う上で必要になる、Node.jsについて少し解説
+[Node.jsの歩き方](./nodejs/)
