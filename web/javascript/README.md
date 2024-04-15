@@ -20,7 +20,7 @@ JavaScriptというのは、ブラウザ上で動くという言語です。
 そんなことはさておき、JavaScriptを勉強していきましょう。
 
 ### 本題
-#### １日目~3日目 JavaScript入門
+#### 8日目~11日目 JavaScript入門
 教材についてなんですが、迷ってます。  
 とりあえず、これをやってみてください。  
 [一日で多分駆け抜けられるJavaScript](https://github.com/ZDK-UTsukuba/ipc-web-training-2024/tree/master/phase2/handouts)  
@@ -28,17 +28,17 @@ JavaScriptというのは、ブラウザ上で動くという言語です。
 ガッチリやる方がいいのかな。もし上のやつをやってもよくわからなかったら下をやってみてください。  
 [文系大学生のためのJavaScript入門](https://zenn.dev/ojk/books/intro-to-javascript)
 
-#### 4日目 JavaScript練習
+#### 12,13日目 JavaScript練習
 JavaScript中間試験みたいなものです。  
 これができたら、JavaScriptの基本は大丈夫です。  
 [pokeAPIで練習するJavaScript](./pokeAPI)  
 
-#### 5日目 WEBの仕組み(http)補強
+#### 14日目 WEBの仕組み(http)補強
 APIについての説明を端折りすぎたので、補足資料書いたら結構長くなってしまいました。  
 手を動かして遊ぶ形式ですが、自分で考えてコードを書く部分はありません。伏線回収回みたいな感じです。  
 [APIをマイコンで作ろう](./pokeAPI_supplyment)
 
-#### 6~7日目　非同期処理
+#### 15日目　非同期処理
 JavaScriptのボスの非同期処理を勉強します。  
 Cのポインターよりは難しくないけど、みんなが詰まるポイントです。  
 
