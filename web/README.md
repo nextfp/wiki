@@ -15,4 +15,7 @@
 
 ### 17日目(Node.jsの歩き方)
 Reactを扱う上で必要になる、Node.jsについて少し解説
-[Node.jsの歩き方](./nodejs/)
+[Node.jsの歩き方](./nodejs)
+
+#### 18日目~25日目(React編)
+[React編はこちら](./React)
