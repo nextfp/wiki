@@ -23,8 +23,10 @@ Node.jsが何か分からなくてもReactは触ることは可能なのです�
 ## 5. 本編
 ### 1. Node.jsのインストール
 [Windowsの方はこちら](https://prog-8.com/docs/nodejs-env-win)  
-[Macの方はこちら](https://prog-8.com/docs/nodejs-env)  
+[Macの方はこちら](https://zenn.dev/nok_c7/articles/536ac2d35bf9e6)  
 センターで作業する方は、センターの大体のPCにNode.jsは入っているので、この作業は必要ありません。  
+> Macの方は、nvmというnode.jsのバージョン切り替えツールを入れていますが、これはnode.jsのセットアップをする方法が一番簡単なためこれを使用しています。別にバージョン切り替えは目当てではありません。バージョンはLTSと付いているやつがおすすめです。    
+
 
 ### 2. コードの入手
 [こちら](https://codesandbox.io/p/sandbox/react-dev-q2z497?file=%2Fsrc%2FApp.js&utm_medium=sandpack)からreactのチュートリアルで作成する制作物のコードが閲覧できます。
