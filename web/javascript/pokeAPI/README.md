@@ -41,6 +41,26 @@ htmlファイルの中身は、これだけでよいです。このscriptタグ�
 こんな感じにHello World!が表示されていれば成功です。  
 ![alt text](image-1.png)
 
+<details>
+<summary>文字化けした場合</summary>
+文字化けした場合は、htmlファイルの文字コードが設定していないことが原因です。  
+htmlファイルの一番上に以下のように書いてください。  
+```html
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <script>
+        console.log("hello world!");
+    </script>
+</body>
+</html>
+```
+このようにしてください。  
+</details>
+
 数値計算もしてみますか。(これ以降は面倒くさいのでScriptタグの中身だけを書きます。)  
 ```js
 console.log("2かける3は", 2 * 3);
